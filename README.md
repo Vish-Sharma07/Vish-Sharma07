@@ -36,7 +36,8 @@
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" height="40" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" height="40" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/cpp.png" alt="cpp" height="40"/>
+  ![cpp](https://img.icons8.com/color/48/000000/cpp.png)
+
   <img src="https://img.icons8.com/office/40/000000/react.png" alt="React" height="40" />
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" height="40" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" height="40" />
