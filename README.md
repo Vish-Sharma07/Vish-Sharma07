@@ -25,7 +25,7 @@
 
 ## Connect with Me 🤝
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/VishakhaSharma/](https://www.linkedin.com/in/vishakha-sharma-1ba079210?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZ4Znx70BRJGPe9Q5HcRpkg%3D%3D))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([[https://www.linkedin.com/in/VishakhaSharma/](https://www.linkedin.com/in/vishakha-sharma-1ba079210?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZ4Znx70BRJGPe9Q5HcRpkg%3D%3D)](https://www.linkedin.com/in/vishakha-sharma-1ba079210/))
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Vish-Sharma07)
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=google-chrome)](https://YourPortfolioLink.com)
 
