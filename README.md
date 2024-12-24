@@ -12,7 +12,7 @@
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vish-Sharma&show_icons=true&count_private=true)  
 
   
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Vish-Sharma07&theme=dracula&column=4)
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=Vish-Sharma07&theme=dracula&column=8)
 
 </div>
 
