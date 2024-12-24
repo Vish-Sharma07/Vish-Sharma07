@@ -43,4 +43,10 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="40" />
 </p>
 
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnDoe&layout=compact&langs_count=5&theme=tokyonight)
+
+
+
 
