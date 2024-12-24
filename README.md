@@ -28,10 +28,12 @@
 
 ## Connect with Me 🤝
 
-- [LinkedIn](https://www.linkedin.com/in/Vishakha-Sharma/)
-- [GitHub](https://github.com/Vish-Sharma)
-- <!--[Portfolio](https://YourPortfolioLink.com)-->
-- [Email](mailto:sharmavish25@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YourLinkedInUsername/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/YourTwitterUsername)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YourGitHubUsername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=google-chrome)](https://YourPortfolioLink.com)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:YourEmail@example.com)
+
 
 <!--
 **Vish-Sharma07/Vish-Sharma07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
