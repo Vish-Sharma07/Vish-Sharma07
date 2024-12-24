@@ -1,4 +1,6 @@
-<div align="center>![girl codes](https://github.com/user-attachments/assets/3efc8d4d-679d-453f-bd9a-f1fb0d4ab98a)</div>div>
+<div align="center>
+  ![girl codes](https://github.com/user-attachments/assets/3efc8d4d-679d-453f-bd9a-f1fb0d4ab98a)
+  </div>
 
 
 ## Hi👋, I am Vishakha Sharma
