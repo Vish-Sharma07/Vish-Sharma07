@@ -20,12 +20,24 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vish-Sharma&color=blue)
 
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👨‍💻 All of my projects are available at https://github.com/Vish-Sharma
+- 💬 Mail sharmavish25@gmail.com
+
+## Connect with Me 🤝
+
+- [LinkedIn](https://www.linkedin.com/in/Vishakha-Sharma/)
+- [GitHub](https://github.com/Vish-Sharma)
+- <!--[Portfolio](https://YourPortfolioLink.com)-->
+- [Email](mailto:sharmavish25@gmail.com)
+
 <!--
 **Vish-Sharma07/Vish-Sharma07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
