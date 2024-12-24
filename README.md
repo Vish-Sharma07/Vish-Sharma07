@@ -1,4 +1,6 @@
-![girl codes](https://github.com/user-attachments/assets/3efc8d4d-679d-453f-bd9a-f1fb0d4ab98a)
+<div align="center">
+  <img src="![girl codes](https://github.com/user-attachments/assets/3efc8d4d-679d-453f-bd9a-f1fb0d4ab98a)" alt="Description of Image" width="300"/>
+</div>
 
 
 ## Hi👋, I am Vishakha Sharma
