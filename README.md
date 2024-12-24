@@ -1,9 +1,13 @@
-## Hi there 👋
+### Hi👋, I am Vishakha Sharma
+
+
+**A passionate Full Stack Web Developer from India with a strong foundation in software engineering principles and a comprehensive understanding of front-end and back-end technologies. Dedicated to building efficient, scalable, and user-centric solutions, I am eager to apply my expertise to contribute to impactful and innovative projects in a professional setting.**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Vish-Sharma&color=blue)
 
 <!--
 **Vish-Sharma07/Vish-Sharma07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
