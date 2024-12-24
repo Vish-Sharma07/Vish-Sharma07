@@ -9,30 +9,25 @@
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vish-Sharma&show_icons=true&count_private=true)
-  
-  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vish-Sharma&show_icons=true&count_private=true)  
 
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Vish-Sharma&theme=dracula&column=4)
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=Vish-Sharma07&theme=dracula&column=4)
 
 </div>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vish-Sharma&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Vish-Sharma07&color=blue)
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👨‍💻 All of my projects are available at https://github.com/Vish-Sharma
+- 🌱 I’m currently learning React.js and System Design
+- 👨‍💻 All of my projects are available at https://github.com/Vish-Sharma07
 - 💬 Mail sharmavish25@gmail.com
 
 ## Connect with Me 🤝
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YourLinkedInUsername/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/YourTwitterUsername)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YourGitHubUsername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/VishakhaSharma/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Vish-Sharma07)
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=google-chrome)](https://YourPortfolioLink.com)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:YourEmail@example.com)
 
 
 <!--
