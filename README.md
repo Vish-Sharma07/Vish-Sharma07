@@ -11,7 +11,7 @@
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vish-Sharma&show_icons=true&count_private=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vish-Sharma)
+  
 
   ![Trophies](https://github-profile-trophy.vercel.app/?username=Vish-Sharma&theme=dracula&column=4)
 
