@@ -45,7 +45,7 @@
 
 ## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnDoe&layout=compact&langs_count=5&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vish-Sharma07&layout=compact&langs_count=5&theme=tokyonight)
 
 
 
