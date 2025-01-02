@@ -28,6 +28,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishakha-sharma-1ba079210/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Vish-Sharma07)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/Vish-Sharma07)
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=google-chrome)](https://YourPortfolioLink.com) -->
 
 ## Languages and Tools 🛠️
